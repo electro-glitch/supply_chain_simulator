@@ -1,0 +1,14 @@
+{
+	"Energy Shock Index": {"effect": -0.82, "strength": 0.94},
+	"Rare Earth Embargo": {"effect": -0.76, "strength": 0.88},
+	"Currency Instability": {"effect": -0.65, "strength": 0.73},
+	"Supply Chain Capacity": {"effect": 0.58, "strength": 0.67},
+	"Cyber Threat Level": {"effect": -0.71, "strength": 0.81},
+	"Climate Shock Exposure": {"effect": -0.54, "strength": 0.69},
+	"Diplomatic Alignment": {"effect": 0.63, "strength": 0.75},
+	"Maritime Security Index": {"effect": 0.47, "strength": 0.61},
+	"Border Tension Pressure": {"effect": -0.69, "strength": 0.78},
+	"Innovation Subsidy": {"effect": 0.52, "strength": 0.57},
+	"Debt Distress Signal": {"effect": -0.48, "strength": 0.64},
+	"Food Security Buffer": {"effect": 0.44, "strength": 0.59}
+}

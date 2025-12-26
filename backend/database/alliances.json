@@ -1,0 +1,20 @@
+{
+    "Indo-Pacific Compact": {
+        "members": ["India", "USA"],
+        "cohesion": 0.72,
+        "support_multiplier": 0.24,
+        "deterrence": 0.61
+    },
+    "Eurasian Trade Axis": {
+        "members": ["China", "India"],
+        "cohesion": 0.58,
+        "support_multiplier": 0.18,
+        "deterrence": 0.46
+    },
+    "Pacific Assurance Forum": {
+        "members": ["USA", "China"],
+        "cohesion": 0.37,
+        "support_multiplier": 0.11,
+        "deterrence": 0.28
+    }
+}

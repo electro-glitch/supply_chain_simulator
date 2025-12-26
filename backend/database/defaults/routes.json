@@ -1,0 +1,2112 @@
+{
+    "United States": {
+        "Canada": {
+            "cost": 6,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Mexico": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.12,
+            "mode": "land",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.12
+            }
+        },
+        "United Kingdom": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.1
+            }
+        },
+        "Germany": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.11
+            }
+        },
+        "Brazil": {
+            "cost": 12,
+            "time": 14,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 14,
+                "risk": 0.18
+            }
+        },
+        "China": {
+            "cost": 16,
+            "time": 20,
+            "risk": 0.22,
+            "mode": "air",
+            "base": {
+                "cost": 16,
+                "time": 20,
+                "risk": 0.22
+            }
+        },
+        "Japan": {
+            "cost": 14,
+            "time": 18,
+            "risk": 0.2,
+            "mode": "air",
+            "base": {
+                "cost": 14,
+                "time": 18,
+                "risk": 0.2
+            }
+        },
+        "Australia": {
+            "cost": 17,
+            "time": 22,
+            "risk": 0.19,
+            "mode": "air",
+            "base": {
+                "cost": 17,
+                "time": 22,
+                "risk": 0.19
+            }
+        },
+        "Netherlands": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.11
+            }
+        }
+    },
+    "Canada": {
+        "United States": {
+            "cost": 6,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "United Kingdom": {
+            "cost": 11,
+            "time": 12,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 12,
+                "risk": 0.1
+            }
+        },
+        "Germany": {
+            "cost": 12,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 13,
+                "risk": 0.11
+            }
+        },
+        "Japan": {
+            "cost": 15,
+            "time": 18,
+            "risk": 0.17,
+            "mode": "air",
+            "base": {
+                "cost": 15,
+                "time": 18,
+                "risk": 0.17
+            }
+        }
+    },
+    "Mexico": {
+        "United States": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.12,
+            "mode": "land",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.12
+            }
+        },
+        "Brazil": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.17
+            }
+        },
+        "Spain": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.16
+            }
+        },
+        "China": {
+            "cost": 17,
+            "time": 21,
+            "risk": 0.23,
+            "mode": "air",
+            "base": {
+                "cost": 17,
+                "time": 21,
+                "risk": 0.23
+            }
+        }
+    },
+    "United Kingdom": {
+        "United States": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.1
+            }
+        },
+        "Canada": {
+            "cost": 11,
+            "time": 12,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 12,
+                "risk": 0.1
+            }
+        },
+        "Brazil": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.16
+            }
+        },
+        "France": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Germany": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "air",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "India": {
+            "cost": 12,
+            "time": 14,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 14,
+                "risk": 0.16
+            }
+        },
+        "South Africa": {
+            "cost": 13,
+            "time": 15,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 15,
+                "risk": 0.17
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.15
+            }
+        },
+        "Norway": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        }
+    },
+    "Germany": {
+        "United States": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.11
+            }
+        },
+        "Canada": {
+            "cost": 12,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 13,
+                "risk": 0.11
+            }
+        },
+        "United Kingdom": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "air",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "France": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Italy": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Netherlands": {
+            "cost": 2,
+            "time": 3,
+            "risk": 0.06,
+            "mode": "land",
+            "base": {
+                "cost": 2,
+                "time": 3,
+                "risk": 0.06
+            }
+        },
+        "Sweden": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.07,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.07
+            }
+        },
+        "Russia": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.14,
+            "mode": "land",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.14
+            }
+        },
+        "Switzerland": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Turkey": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "air",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        }
+    },
+    "Brazil": {
+        "United States": {
+            "cost": 12,
+            "time": 14,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 14,
+                "risk": 0.18
+            }
+        },
+        "Mexico": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.17
+            }
+        },
+        "Argentina": {
+            "cost": 6,
+            "time": 8,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 8,
+                "risk": 0.15
+            }
+        },
+        "Chile": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.16,
+            "mode": "land",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.16
+            }
+        },
+        "Spain": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        },
+        "South Africa": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.19
+            }
+        },
+        "United Kingdom": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.16
+            }
+        },
+        "Nigeria": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.19
+            }
+        }
+    },
+    "China": {
+        "United States": {
+            "cost": 16,
+            "time": 20,
+            "risk": 0.22,
+            "mode": "air",
+            "base": {
+                "cost": 16,
+                "time": 20,
+                "risk": 0.22
+            }
+        },
+        "Mexico": {
+            "cost": 17,
+            "time": 21,
+            "risk": 0.23,
+            "mode": "air",
+            "base": {
+                "cost": 17,
+                "time": 21,
+                "risk": 0.23
+            }
+        },
+        "Chile": {
+            "cost": 15,
+            "time": 20,
+            "risk": 0.22,
+            "mode": "sea",
+            "base": {
+                "cost": 15,
+                "time": 20,
+                "risk": 0.22
+            }
+        },
+        "Russia": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        },
+        "Japan": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.09
+            }
+        },
+        "South Korea": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Vietnam": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        },
+        "Malaysia": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        },
+        "Indonesia": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        }
+    },
+    "Japan": {
+        "United States": {
+            "cost": 14,
+            "time": 18,
+            "risk": 0.2,
+            "mode": "air",
+            "base": {
+                "cost": 14,
+                "time": 18,
+                "risk": 0.2
+            }
+        },
+        "Canada": {
+            "cost": 15,
+            "time": 18,
+            "risk": 0.17,
+            "mode": "air",
+            "base": {
+                "cost": 15,
+                "time": 18,
+                "risk": 0.17
+            }
+        },
+        "China": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.09
+            }
+        },
+        "South Korea": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Australia": {
+            "cost": 10,
+            "time": 13,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 13,
+                "risk": 0.14
+            }
+        },
+        "Singapore": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.14
+            }
+        }
+    },
+    "Australia": {
+        "United States": {
+            "cost": 17,
+            "time": 22,
+            "risk": 0.19,
+            "mode": "air",
+            "base": {
+                "cost": 17,
+                "time": 22,
+                "risk": 0.19
+            }
+        },
+        "Chile": {
+            "cost": 13,
+            "time": 18,
+            "risk": 0.2,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 18,
+                "risk": 0.2
+            }
+        },
+        "India": {
+            "cost": 11,
+            "time": 14,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 14,
+                "risk": 0.15
+            }
+        },
+        "Japan": {
+            "cost": 10,
+            "time": 13,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 13,
+                "risk": 0.14
+            }
+        },
+        "Singapore": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.13
+            }
+        },
+        "Indonesia": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        },
+        "Malaysia": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.13
+            }
+        },
+        "South Africa": {
+            "cost": 12,
+            "time": 16,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 16,
+                "risk": 0.18
+            }
+        }
+    },
+    "Netherlands": {
+        "United States": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.11
+            }
+        },
+        "Germany": {
+            "cost": 2,
+            "time": 3,
+            "risk": 0.06,
+            "mode": "land",
+            "base": {
+                "cost": 2,
+                "time": 3,
+                "risk": 0.06
+            }
+        },
+        "Norway": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.09
+            }
+        },
+        "Sweden": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Singapore": {
+            "cost": 15,
+            "time": 18,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 15,
+                "time": 18,
+                "risk": 0.17
+            }
+        }
+    },
+    "Spain": {
+        "Mexico": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.16
+            }
+        },
+        "Brazil": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        },
+        "Argentina": {
+            "cost": 12,
+            "time": 15,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 15,
+                "risk": 0.18
+            }
+        },
+        "France": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Italy": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Nigeria": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.17
+            }
+        }
+    },
+    "Argentina": {
+        "Brazil": {
+            "cost": 6,
+            "time": 8,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 8,
+                "risk": 0.15
+            }
+        },
+        "Spain": {
+            "cost": 12,
+            "time": 15,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 15,
+                "risk": 0.18
+            }
+        },
+        "South Africa": {
+            "cost": 13,
+            "time": 16,
+            "risk": 0.21,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 16,
+                "risk": 0.21
+            }
+        }
+    },
+    "Chile": {
+        "Brazil": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.16,
+            "mode": "land",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.16
+            }
+        },
+        "China": {
+            "cost": 15,
+            "time": 20,
+            "risk": 0.22,
+            "mode": "sea",
+            "base": {
+                "cost": 15,
+                "time": 20,
+                "risk": 0.22
+            }
+        },
+        "Australia": {
+            "cost": 13,
+            "time": 18,
+            "risk": 0.2,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 18,
+                "risk": 0.2
+            }
+        }
+    },
+    "South Africa": {
+        "Brazil": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.19
+            }
+        },
+        "Argentina": {
+            "cost": 13,
+            "time": 16,
+            "risk": 0.21,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 16,
+                "risk": 0.21
+            }
+        },
+        "United Kingdom": {
+            "cost": 13,
+            "time": 15,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 13,
+                "time": 15,
+                "risk": 0.17
+            }
+        },
+        "India": {
+            "cost": 12,
+            "time": 16,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 16,
+                "risk": 0.19
+            }
+        },
+        "Australia": {
+            "cost": 12,
+            "time": 16,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 16,
+                "risk": 0.18
+            }
+        },
+        "Nigeria": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.16
+            }
+        },
+        "Egypt": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.15
+            }
+        }
+    },
+    "Nigeria": {
+        "Brazil": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.19
+            }
+        },
+        "France": {
+            "cost": 10,
+            "time": 13,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 13,
+                "risk": 0.18
+            }
+        },
+        "Spain": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.17
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        },
+        "South Africa": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.16
+            }
+        },
+        "Egypt": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.13,
+            "mode": "land",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.13
+            }
+        }
+    },
+    "France": {
+        "United Kingdom": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Germany": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Spain": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Italy": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Nigeria": {
+            "cost": 10,
+            "time": 13,
+            "risk": 0.18,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 13,
+                "risk": 0.18
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.15,
+            "mode": "air",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.15
+            }
+        },
+        "Switzerland": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        }
+    },
+    "India": {
+        "United Kingdom": {
+            "cost": 12,
+            "time": 14,
+            "risk": 0.16,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 14,
+                "risk": 0.16
+            }
+        },
+        "Russia": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.17,
+            "mode": "land",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.17
+            }
+        },
+        "Saudi Arabia": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.13
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.12
+            }
+        },
+        "Singapore": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.12
+            }
+        },
+        "Vietnam": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.11
+            }
+        },
+        "Australia": {
+            "cost": 11,
+            "time": 14,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 14,
+                "risk": 0.15
+            }
+        },
+        "South Africa": {
+            "cost": 12,
+            "time": 16,
+            "risk": 0.19,
+            "mode": "sea",
+            "base": {
+                "cost": 12,
+                "time": 16,
+                "risk": 0.19
+            }
+        }
+    },
+    "United Arab Emirates": {
+        "United Kingdom": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.15
+            }
+        },
+        "France": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.15,
+            "mode": "air",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.15
+            }
+        },
+        "Turkey": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.13,
+            "mode": "air",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.13
+            }
+        },
+        "Saudi Arabia": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "India": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.12
+            }
+        },
+        "Singapore": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.14
+            }
+        },
+        "Nigeria": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        }
+    },
+    "Norway": {
+        "United Kingdom": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Netherlands": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.09
+            }
+        },
+        "Sweden": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Russia": {
+            "cost": 5,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 7,
+                "risk": 0.11
+            }
+        }
+    },
+    "Italy": {
+        "Germany": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "France": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Spain": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Turkey": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        },
+        "Egypt": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        },
+        "Switzerland": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        }
+    },
+    "Sweden": {
+        "Germany": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.07,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.07
+            }
+        },
+        "Netherlands": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Norway": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Russia": {
+            "cost": 6,
+            "time": 8,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 8,
+                "risk": 0.12
+            }
+        }
+    },
+    "Russia": {
+        "Germany": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.14,
+            "mode": "land",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.14
+            }
+        },
+        "Sweden": {
+            "cost": 6,
+            "time": 8,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 8,
+                "risk": 0.12
+            }
+        },
+        "Norway": {
+            "cost": 5,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 7,
+                "risk": 0.11
+            }
+        },
+        "China": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.15
+            }
+        },
+        "India": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.17,
+            "mode": "land",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.17
+            }
+        }
+    },
+    "Turkey": {
+        "Italy": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "land",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        },
+        "Germany": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "air",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        },
+        "Saudi Arabia": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.13,
+            "mode": "land",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.13
+            }
+        },
+        "Egypt": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.13,
+            "mode": "air",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.13
+            }
+        }
+    },
+    "Egypt": {
+        "Italy": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        },
+        "Turkey": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        },
+        "Saudi Arabia": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        },
+        "South Africa": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.15,
+            "mode": "land",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.15
+            }
+        },
+        "Nigeria": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.13,
+            "mode": "land",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.13
+            }
+        }
+    },
+    "Singapore": {
+        "Netherlands": {
+            "cost": 15,
+            "time": 18,
+            "risk": 0.17,
+            "mode": "sea",
+            "base": {
+                "cost": 15,
+                "time": 18,
+                "risk": 0.17
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 10,
+            "time": 12,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 10,
+                "time": 12,
+                "risk": 0.14
+            }
+        },
+        "India": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.12
+            }
+        },
+        "South Korea": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        },
+        "Indonesia": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Malaysia": {
+            "cost": 2,
+            "time": 3,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 2,
+                "time": 3,
+                "risk": 0.07
+            }
+        },
+        "Australia": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.13
+            }
+        },
+        "Japan": {
+            "cost": 11,
+            "time": 13,
+            "risk": 0.14,
+            "mode": "sea",
+            "base": {
+                "cost": 11,
+                "time": 13,
+                "risk": 0.14
+            }
+        },
+        "Thailand": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        }
+    },
+    "Switzerland": {
+        "Germany": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "France": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Italy": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        }
+    },
+    "Saudi Arabia": {
+        "Turkey": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.13,
+            "mode": "land",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.13
+            }
+        },
+        "United Arab Emirates": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "India": {
+            "cost": 8,
+            "time": 10,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 8,
+                "time": 10,
+                "risk": 0.13
+            }
+        },
+        "Egypt": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        }
+    },
+    "Vietnam": {
+        "India": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.11
+            }
+        },
+        "China": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        },
+        "South Korea": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        },
+        "Indonesia": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.1
+            }
+        },
+        "Thailand": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Malaysia": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        }
+    },
+    "South Korea": {
+        "China": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.08
+            }
+        },
+        "Japan": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.07,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.07
+            }
+        },
+        "Singapore": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        },
+        "Vietnam": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        }
+    },
+    "Malaysia": {
+        "China": {
+            "cost": 5,
+            "time": 6,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 5,
+                "time": 6,
+                "risk": 0.1
+            }
+        },
+        "Singapore": {
+            "cost": 2,
+            "time": 3,
+            "risk": 0.07,
+            "mode": "land",
+            "base": {
+                "cost": 2,
+                "time": 3,
+                "risk": 0.07
+            }
+        },
+        "Vietnam": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Thailand": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Australia": {
+            "cost": 9,
+            "time": 11,
+            "risk": 0.13,
+            "mode": "sea",
+            "base": {
+                "cost": 9,
+                "time": 11,
+                "risk": 0.13
+            }
+        }
+    },
+    "Indonesia": {
+        "China": {
+            "cost": 6,
+            "time": 7,
+            "risk": 0.11,
+            "mode": "sea",
+            "base": {
+                "cost": 6,
+                "time": 7,
+                "risk": 0.11
+            }
+        },
+        "Singapore": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "sea",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Vietnam": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.1,
+            "mode": "sea",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.1
+            }
+        },
+        "Australia": {
+            "cost": 7,
+            "time": 9,
+            "risk": 0.12,
+            "mode": "sea",
+            "base": {
+                "cost": 7,
+                "time": 9,
+                "risk": 0.12
+            }
+        }
+    },
+    "Thailand": {
+        "Singapore": {
+            "cost": 4,
+            "time": 5,
+            "risk": 0.09,
+            "mode": "land",
+            "base": {
+                "cost": 4,
+                "time": 5,
+                "risk": 0.09
+            }
+        },
+        "Vietnam": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        },
+        "Malaysia": {
+            "cost": 3,
+            "time": 4,
+            "risk": 0.08,
+            "mode": "land",
+            "base": {
+                "cost": 3,
+                "time": 4,
+                "risk": 0.08
+            }
+        }
+    }
+}

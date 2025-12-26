@@ -1,0 +1,29 @@
+{
+    "Delhi-Washington Accord": {
+        "parties": ["India", "USA"],
+        "stability": 0.68,
+        "enforcement": 0.54,
+        "breach_history": {
+            "breaches": 1,
+            "years_active": 15
+        }
+    },
+    "Shanghai Dialogue": {
+        "parties": ["China", "USA"],
+        "stability": 0.42,
+        "enforcement": 0.36,
+        "breach_history": {
+            "breaches": 2,
+            "years_active": 9
+        }
+    },
+    "Sino-Indian De-escalation Pact": {
+        "parties": ["China", "India"],
+        "stability": 0.51,
+        "enforcement": 0.40,
+        "breach_history": {
+            "breaches": 3,
+            "years_active": 18
+        }
+    }
+}
